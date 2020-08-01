@@ -962,6 +962,10 @@ a:hover {
   font-style: italic;
 }
 
+.article-dashed{
+  border-top: 1px dashed black;
+}
+
 /*------/ Comments /------*/
 
 .box-comments .list-comments li {
