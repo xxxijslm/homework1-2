@@ -45,3 +45,6 @@ SELECT orderID, foodID, SUM(price*quantity)
 FROM orderdetails
 GROUP BY orderID, foodID
 WITH ROLLUP
+
+![image](https://github.com/xxxijslm/homework_1/blob/master/homework_mysql/ERModel.png)
+
