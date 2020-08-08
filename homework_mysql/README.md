@@ -1,6 +1,4 @@
-#badouyao 巴豆夭訂便當系統
-
-- 基本資料表
+# badouyao 巴豆夭訂便當系統
 
 - 職員資料
 SELECT * FROM employees
